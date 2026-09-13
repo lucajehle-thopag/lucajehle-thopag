@@ -1,16 +1,11 @@
-### Hi, ich bin Luca Jehle
+### Luca Jehle
 
-Ich arbeite an **optischen Prüfsystemen** und **Machine Vision** für die industrielle Qualitätssicherung — von der Idee bis zur Anlage in der Produktion.
+Building **the open industrial vision runtime.**
 
-**Schwerpunkte**
-- Optische Inspektion / AOI
-- Messsystemanalysen (MSA)
-- Anlagenoptimierung & Engineering
+Build visually. Extend in code. Validate automatically. Deploy anywhere.
 
-**THOP AG** — [thop.ch](https://thop.ch/)
+---
 
-```text
-Präzision. Qualität. Zukunft.
-```
+Optische Prüfsysteme & Machine Vision für die industrielle Qualitätssicherung — bei [THOP AG](https://www.thopag.ch).
 
-[LinkedIn](https://www.linkedin.com/in/luca-jehle-2b299110b) · Zürich, Schweiz
+[thopag.ch](https://www.thopag.ch) · [LinkedIn](https://www.linkedin.com/in/luca-jehle-2b299110b) · Zürich, Schweiz
