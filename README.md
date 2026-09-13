@@ -1,6 +1,6 @@
 ### Luca Jehle
 
-Building **the open industrial vision runtime.**
+Building **the open vis...**
 
 Build visually. Extend in code. Validate automatically. Deploy anywhere.
 
