@@ -1,6 +1,6 @@
 ### Luca Jehle
 
-Building **the open vision Studio**t
+Building **the open vision Studio**
 
 Build visually. Extend in code. Validate automatically. Deploy anywhere.
 
